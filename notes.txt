@@ -1,0 +1,13 @@
+multiple tools
+    -- apis
+    -- configs
+    -- releases
+multiple environments
+    -- development
+    -- production
+    -- test
+different renderers
+    -- DOM
+    -- SSR server side rendered
+
+create-react-app
